@@ -31,7 +31,3 @@ match way:
 
 merger.write(f"{merged_file}.pdf")
 merger.close()
-
-'''
-https://stackoverflow.com/questions/3444645/merge-pdf-files
-'''
